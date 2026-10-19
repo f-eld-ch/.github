@@ -22,7 +22,6 @@
 | [f-eld-ch.github.io](https://github.com/f-eld-ch/f-eld-ch.github.io) | Website des Vereins |
 | [babs-icons](https://github.com/f-eld-ch/babs-icons) | Zivile Signaturen des BABS als Icons |
 | [package-repo](https://github.com/f-eld-ch/package-repo) | APT- und RPM-Paketquelle für sitrep |
-| [PRConventionalCommits](https://github.com/f-eld-ch/PRConventionalCommits) | GitHub Action, die PR-Titel auf Conventional Commits prüft |
 
 ## Mitmachen
 
